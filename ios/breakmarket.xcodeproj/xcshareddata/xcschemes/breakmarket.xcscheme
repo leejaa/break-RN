@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "breakRN.app"
-               BlueprintName = "breakRN"
-               ReferencedContainer = "container:breakRN.xcodeproj">
+               BuildableName = "breakmarket.app"
+               BlueprintName = "breakmarket"
+               ReferencedContainer = "container:breakmarket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "breakRNTests.xctest"
-               BlueprintName = "breakRNTests"
-               ReferencedContainer = "container:breakRN.xcodeproj">
+               BuildableName = "breakmarketTests.xctest"
+               BlueprintName = "breakmarketTests"
+               ReferencedContainer = "container:breakmarket.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "breakRN.app"
-            BlueprintName = "breakRN"
-            ReferencedContainer = "container:breakRN.xcodeproj">
+            BuildableName = "breakmarket.app"
+            BlueprintName = "breakmarket"
+            ReferencedContainer = "container:breakmarket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "breakRN.app"
-            BlueprintName = "breakRN"
-            ReferencedContainer = "container:breakRN.xcodeproj">
+            BuildableName = "breakmarket.app"
+            BlueprintName = "breakmarket"
+            ReferencedContainer = "container:breakmarket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
